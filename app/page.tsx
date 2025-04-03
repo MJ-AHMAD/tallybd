@@ -174,7 +174,7 @@ export default function Home() {
             <Link href="/impact" className="font-medium hover:text-primary transition-colors">
               Impact
             </Link>
-            <Link href="https://v0-microservices-project.vercel.app/" className="font-medium hover:text-primary transition-colors">
+            <Link href="https://coxs.vercel.app/" className="font-medium hover:text-primary transition-colors">
               Trusted Ally - Cox's Bazar 
             </Link>
             <Link href="/get-involved" className="font-medium hover:text-primary transition-colors">
