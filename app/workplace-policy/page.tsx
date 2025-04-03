@@ -309,7 +309,7 @@ export default function WorkplacePolicy() {
             <p className="text-sm text-gray-500 mt-2">
               For questions or clarifications regarding this policy, please contact the Human Resources Department at{" "}
               <a href="mailto:hr@trustedally.org" className="text-blue-600 hover:underline">
-                hr@trustedally.org
+                hr@trustedally.onmicrosoft.com
               </a>
               .
             </p>
