@@ -63,6 +63,7 @@ export default function WorkplacePolicy() {
               thrives on mutual respect and collaboration. Together, we aim to build a healthier and more harmonious future.
             </b>
             </p>
+            </section>
           <div className="mt-12 border-t border-gray-200 pt-8">
             <p className="text-sm text-gray-500">Last updated: April 10, 2025</p>
             <p className="text-sm text-gray-500 mt-2">
